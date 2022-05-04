@@ -1,7 +1,7 @@
 # HOSTING ON HEROKU GUIDES
 
 
-# Before you can deploy your app to Heroku, initialize a local Git repository and commit your application code to it.
+Before you can deploy your app to Heroku, initialize a local Git repository and commit your application code to it.
 
 cd example-app
 git init
