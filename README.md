@@ -20,6 +20,11 @@ heroku login
 heroku create -a example-app
 
 
+# Remove a Heroku Remote
+
+git remote rm heroku
+
+
 # You can use the git remote command to confirm that a remote named heroku has been set for your app
 
 git remote -v
